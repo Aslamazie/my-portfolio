@@ -1,0 +1,61 @@
+.xd{
+
+  transition: all 0.2s ease;
+  cursor: pointer;
+  
+
+}
+  
+
+
+.xd:hover{
+
+  box-shadow:  #2b2b2b;
+  transform: scale(1.1);
+}
+.figma{
+
+  transition: all 0.2s ease;
+  cursor: pointer;
+  
+
+}
+  
+
+
+.figma:hover{
+
+  box-shadow:  #2b2b2b;
+  transform: scale(1.1);
+}
+.ps{
+
+  transition: all 0.2s ease;
+  cursor: pointer;
+  
+
+}
+  
+
+
+.ps:hover{
+
+  box-shadow:  #2b2b2b;
+  transform: scale(1.1);
+}
+.ai{
+
+  transition: all 0.2s ease;
+  cursor: pointer;
+  
+
+}
+  
+
+
+.ai:hover{
+
+  box-shadow:  #2b2b2b;
+  transform: scale(1.1);
+}
+

@@ -1,0 +1,14 @@
+.header{
+    background-color:red;
+    width: 100%;
+    height: 10%;
+}
+.logo{
+    color: white;
+    margin-left: 200px;
+
+}
+.login{
+    width:50%;
+    float:left;
+}
